@@ -1,0 +1,13 @@
+{
+    "Resource":{
+        "measurestrip":{
+            "Type":"AWS::S3::Bucket",
+            "Properties":{
+                "BucketName":"Thismyfirstbucket"
+            }
+        },
+        "measurestrip2":{
+            "Type":"AWS::S3::Bucket"
+        }
+    }
+}

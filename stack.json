@@ -1,0 +1,7 @@
+{
+    "Resources": {
+      "measurestrip": {
+        "Type": "AWS::S3::Bucket"
+      }
+    }
+  }
